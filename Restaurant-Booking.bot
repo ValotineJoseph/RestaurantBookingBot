@@ -1,0 +1,61 @@
+{
+  "name": "Restaurant-Booking",
+  "padlock": "mOT4u+FzVLve8BCYDd7eNA==!9mHe+2xVD2ju0/OT2rKWFyp5GdmBQgb25+6w6HM12krwxxdcqfiL3uOh0Dz93S7d",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "f6a80379-f089-4a40-b451-3b1c60fd1eaa",
+      "subscriptionId": "a4d7056e-5c38-4077-8902-03351812bec3",
+      "resourceGroup": "BotResources",
+      "serviceName": "Restaurant-Booking",
+      "type": "abs",
+      "name": "Restaurant-Booking",
+      "id": "1"
+    },
+    {
+      "connectionString": "dWC5UDjbJGnxfybUTSIL6Q==!aWMP2tnbAA7Xf5sn9DxMew6lyPHSQagG27HgDpKcdoIivfgBwhcq4SVrXZeb1axrqnhjlrusfqkBarQHgmOIpSrZBAi096PiMSCm1/PtipTXkpbtFg2SEvKOnDIUOpu4ztfs7v98BFT0d77bmE39A71ZU+yia6C1GI8npUV7GeqLCFV3LLa/4QKlygUNUcbT0aPSWvaNZi+GIdzdToLsvqvIiG4KMsc95MHGCsUipkI=",
+      "tenantId": "f6a80379-f089-4a40-b451-3b1c60fd1eaa",
+      "subscriptionId": "a4d7056e-5c38-4077-8902-03351812bec3",
+      "resourceGroup": "BotResources",
+      "serviceName": "restaurantbooking95d3",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "a0c05e6e-eec8-4b80-b491-e52d3e61d791",
+      "appPassword": "9//BcOKuIZRQeQmZUBFhKg==!jWCISjBnUyPOAcprKOKIRZ62EStQfAR0ZHdGNggUy7w=",
+      "endpoint": "https://restaurantbooking.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "iI2AVLP5qTGJ4eJ0/w8XWQ==!NeGqLXtsa3BnsQPWiqAFzv7U/Ez0dFkNn+W9ZlMM9OMFhM/ahAjbBIC0wShJ0tgh",
+      "applicationId": "51ba1d38-a872-4725-8afd-3bb4e9a9d696",
+      "apiKeys": {},
+      "tenantId": "f6a80379-f089-4a40-b451-3b1c60fd1eaa",
+      "subscriptionId": "a4d7056e-5c38-4077-8902-03351812bec3",
+      "resourceGroup": "BotResources",
+      "serviceName": "Restaurant-Bookingv73xmt",
+      "type": "appInsights",
+      "id": "5"
+    },
+    {
+      "appId": "87c0a987-5b2e-4e90-a860-53d4f37d008e",
+      "authoringKey": "NS2v4yMw0TtzADce3vj6Lg==!3xUHhIHOeIm8Ew8gTZ+DR1h7iB2tb2UBEFANkVj0q4sGAvg2tNVXkK1xhSZU1oWT",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "6"
+    }
+  ]
+}
